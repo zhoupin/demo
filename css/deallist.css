@@ -1,0 +1,9 @@
+@charset "UTF-8";
+#deal_wrapper {margin-bottom: 25px;width: 1095px;}
+#deal_wrapper .deal_classify{margin-top: 13px;}
+#deal_wrapper .deal_classify .classify_title{font: 18px/30px "Calibri";color: #666;width: 172px;height: 30px;background-color: #f8f8f8;border: 1px solid #c8c8c8;display: inline-block;text-align: center;}
+#deal_wrapper .wra_deal {float: left; height: 318px;width: 258px;border: 1px solid #e1e1e1;margin: 13px 13px 0px 0px;}
+#deal_wrapper .wra_deal .deal_img{height: 258px;width: 258px;display: block;}
+#deal_wrapper .wra_deal .deal_title{margin:0 5px; font: 18px/20px "Calibri";text-align: left;overflow: hidden; white-space: nowrap; text-overflow: ellipsis;}
+#deal_wrapper .wra_deal .deal_title a{color:#333;}
+#deal_wrapper .wra_deal .deal_price{display: block; font: 24px/38px "Calibri";color: #000;text-align: center;}
